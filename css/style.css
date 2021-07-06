@@ -1,0 +1,117 @@
+body{
+    margin: 0px;
+    padding:0px;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 5%;
+}
+.header-part{
+    background-color: #F0FFF0;
+}
+.button{
+    border: none;
+    border-radius: 50px;
+}
+.navigation-part{
+    height: 150px;
+}
+.header-part{
+    
+}
+.heading-part h1{
+    ffont-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+    color: #000000;
+}
+.heading-part h1 span{
+    color: #21B573;
+}
+.card-first{
+    height: 200px;
+    background-color: #F8FFFB;
+    border-radius: 5px;
+    border:none;
+}
+.card-first img{
+    width: 60px;
+    height: 80px;
+    margin-top: 30px;
+}
+.card-2{
+    box-shadow: 5px 5px 15px lightgray;
+    background-color: #fff;
+}
+.card p{
+    font-size: 14px;
+    color: gray;
+}.card h5{
+    font-size: 24px;
+}
+
+.card2-bgcolor{
+    background-color: #fff;
+    border-radius:20px;
+    box-shadow: 5px 5px 10px lightgray;
+    border: none;
+   
+}
+.card2-bgcolor img{
+    border-radius: 20px;
+    padding: 15px;
+}
+.card-footer{
+    border: none;
+    background-color: #fff;
+    margin-left: -15px;
+}
+.card-footer img{
+    width: 24px;
+    height: 24px;
+    margin-top: 2%;
+    padding: 0;
+}
+.card-footer p{
+    margin-top: 5px;
+    padding: 0px 8px;
+    font-size:10px;
+}
+.card-footer .last-part{
+    margin-left: 50px;
+}
+.testimonial img{
+    width: 120px;
+    height: 120px;
+    margin-top: -5px;
+}
+.testimonial-part{
+    margin-top: 5rem;
+}
+.testimonial-part h6{
+    width: 500px;
+    font-size: 16px;
+    line-height: 30px;
+    margin-left: 2rem;
+    color: black;
+}
+.footer-part{
+    background-color: #282531;
+    
+}
+.footer-part h5{
+    color: white;
+    font-size: 16px;
+}
+.footer-part p{
+    color: white;
+    font-size: 10px;
+}
+.footer-part2{
+    margin-bottom: 20px;
+}
+.footer-part2 p{
+    font-size: 14px;
+}
